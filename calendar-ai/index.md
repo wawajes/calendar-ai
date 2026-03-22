@@ -20,4 +20,4 @@ A Chrome extension that helps you quickly add events to Google Calendar using na
 
 ## Contact
 
-- **X (Twitter)**: [@Jeeeeeeswa](https://x.com/Jeeeeeeswa)
+- **X (Twitter)**: [@Jeswan22](https://x.com/Jeswan22)
